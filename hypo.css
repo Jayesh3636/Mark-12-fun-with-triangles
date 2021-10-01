@@ -9,10 +9,10 @@
 }
 
 img {
-    margin-left: 0;
+    margin-left: 3rem;
     transform: scaleX(-1);
     height: auto;
-    max-width: 800px;
+    max-width: 100%;
 }
 
 .mid-logo {
